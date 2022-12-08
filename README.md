@@ -1,17 +1,12 @@
 
 ## Loan Approval Prediction - Random Forest Model 
 
-## Project Purpose: 
+## Goal: 
+To accurately predict loan approvals without falsely approving too many loans that should be denied (minimize False Positives). 
 
 
 ## Business Case: 
 To create a model that accurately predicts loan approval and automates the manual approval process. 
-
-## Goal: 
-To accurately predict loan approvals without falsely approving too many loans that should be denied (minimize False Positives). 
-
-## Deliverable: 
-
 
 ### In Repository:
 
