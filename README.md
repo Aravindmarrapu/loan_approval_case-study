@@ -15,12 +15,9 @@ To accurately predict loan approvals without falsely approving too many loans th
 
 ### In Repository:
 
-1. Data & data dictionary
+1. Data (train.csv)
 
-<img src="DataDictionary.jpg" width="350" height="250">
-
-2. Random Forest Model Creation (Loan Approval Model.ipynb)
-
+2. Random Forest Model Creation (Loan_Approval_project.ipynb)
 
 ## Results and Model Evaluation: 
 
