@@ -1,8 +1,8 @@
 
-## Loan Approval Prediction - Random Forest Model and Deployed Web App
+## Loan Approval Prediction - Random Forest Model 
 
 ## Project Purpose: 
-To demonstrate a full ML project from scratch to deployment to a web app.
+
 
 ## Business Case: 
 To create a model that accurately predicts loan approval and automates the manual approval process. 
@@ -11,11 +11,7 @@ To create a model that accurately predicts loan approval and automates the manua
 To accurately predict loan approvals without falsely approving too many loans that should be denied (minimize False Positives). 
 
 ## Deliverable: 
-A web app that end users can utilize to predict loan approvals using a Random Forest model on the backend. 
 
-    1. Web App: https://jessramos2-loan-approval-random-forest-web-streamlit-app-47jl27.streamlitapp.com/
-    
-  <img src="WebAppPic.jpg" width="430" height="400">
 
 ### In Repository:
 
@@ -24,14 +20,6 @@ A web app that end users can utilize to predict loan approvals using a Random Fo
 <img src="DataDictionary.jpg" width="350" height="250">
 
 2. Random Forest Model Creation (Loan Approval Model.ipynb)
-
-3. Sample decision tree from random forest
-    
- ![](DecisionTree.jpg)
-
-4. Web App Python Code (streamlit_app.py)
-
-5. Web app link and screenshot
 
 
 ## Results and Model Evaluation: 
